@@ -1,5 +1,5 @@
-html{
-  background-color: red;
+body{
+  background-color: lightblue;
 }
 .navbar{margin:0 auto; width: 500px;}
 .nav-item{display: inline-block;}
