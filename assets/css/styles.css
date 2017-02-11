@@ -1,3 +1,6 @@
 html{
   background-color: red;
 }
+.navbar{margin:0 auto; width: 500px;}
+.nav-item{display: inline-block;}
+.dropdown-menu{display: none;}
